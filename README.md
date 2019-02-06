@@ -4,7 +4,7 @@ The purpose of this assignment was to compare the time complexity of the search 
 
 Graphs comparing the time complexity of both algorithms:
 
-
+![Comp Graphs](/images/time_complexity_search.png)
 
 The 'Report.pdf' details all results of the assignment.
 
