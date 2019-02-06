@@ -12,7 +12,11 @@ To test the search functions in the terminal, clone the repository and type the 
 
 To search the Binary Search Tree:
 
+![BST](/images/BST_search.png)
+
 To Search the AVL Tree:
+
+![AVL](/images/AVL_search.png)
 
 You may pick a different dam name to search from the data, some options are:
 
